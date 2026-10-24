@@ -1,0 +1,5 @@
+inherits: default.yaml
+training:
+  framework: pytorch_optional
+  manifest_dir: experiments/manifests
+  checkpoint_dir: models/checkpoints

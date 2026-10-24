@@ -1,0 +1,13 @@
+inherits: default.yaml
+optimization:
+  method: cma_or_scipy_to_select
+  objective_metrics: [chamfer, iou, pixel_difference, ssim, stroke_bbox]
+  parameters:
+    scale_x: 1.0
+    scale_y: 1.0
+    translate_x: 0.0
+    translate_y: 0.0
+    width_scale: 1.0
+    curve_tension: null
+    control_point_scale: null
+    geometry_encoding_variant: null

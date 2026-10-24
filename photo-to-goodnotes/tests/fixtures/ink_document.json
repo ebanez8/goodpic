@@ -1,0 +1,21 @@
+{
+  "id": "example-document",
+  "schema_version": "1.0",
+  "source_metadata": {"source": "illustrative fixture"},
+  "pages": [{
+    "width": 595.28,
+    "height": 841.89,
+    "coordinate_system": "page_points_top_left",
+    "background_reference": null,
+    "strokes": [{
+      "id": "example-stroke-1",
+      "tool": "pen",
+      "color": [0.0, 0.0, 0.0, 1.0],
+      "metadata": {},
+      "points": [
+        {"x": 72.0, "y": 72.0, "width": 1.2, "pressure": 0.5, "timestamp": 0.0},
+        {"x": 80.0, "y": 82.0, "width": 1.1, "pressure": 0.45, "timestamp": 0.04}
+      ]
+    }]
+  }]
+}

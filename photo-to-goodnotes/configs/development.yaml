@@ -1,0 +1,4 @@
+inherits: default.yaml
+logging:
+  level: DEBUG
+  preserve_intermediates: true

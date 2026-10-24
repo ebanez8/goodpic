@@ -1,0 +1,8 @@
+schema_version: "1.0"
+paths:
+  data: data
+  generated: generated
+  experiments: experiments
+pipeline:
+  coordinate_system: page_points_top_left
+  render_source: manual_goodnotes_export
