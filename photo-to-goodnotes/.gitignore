@@ -20,5 +20,10 @@ experiments/results/*
 experiments/comparisons/*
 generated/goodnotes/*
 generated/previews/*
+generated/inksight_*/
 generated/reports/*
+generated/phase2_experiments/
+generated/phase2_experiments_v2/
+generated/phase2_candidates/
+generated/phase2_pytest_tmp/
 !**/.gitkeep

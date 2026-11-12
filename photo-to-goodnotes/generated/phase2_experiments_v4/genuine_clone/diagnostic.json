@@ -1,0 +1,45 @@
+{
+  "case": "genuine_clone",
+  "source_pen": {
+    "source": "..\\samples\\Test5.goodnotes",
+    "page_member": "notes/F51610D9-2DEC-4842-BD27-12371BC96206",
+    "record_index": 27,
+    "point_count": 40,
+    "outline_pair_count": 141,
+    "control_record_count": 40,
+    "geometry_byte_ranges": {
+      "anchor": [
+        102,
+        114
+      ],
+      "sampled_path": [
+        118,
+        598
+      ],
+      "outline_pairs": [
+        850,
+        1978
+      ],
+      "control_records": [
+        1982,
+        2782
+      ]
+    },
+    "bounds": [
+      532.912841796875,
+      101.27346801757812,
+      553.6044921875,
+      270.1885986328125
+    ]
+  },
+  "modified_binary_fields": [
+    "shared metadata/pen field #1 UUID",
+    "metadata field #8 destination document value",
+    "metadata field #9 order",
+    "linked metadata #2 and pen #15 tokens",
+    "nested pen #7 token",
+    "pen field #2 LZ4 geometry"
+  ],
+  "structural_validation": "decoded geometry and ZIP verified",
+  "goodnotes_rendering": null
+}

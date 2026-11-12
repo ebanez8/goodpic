@@ -6,4 +6,9 @@ All page dimensions, `x`, `y`, and `width` use page points (`1 pt = 1/72 inch`).
 
 `color` is RGBA with four floats in `[0, 1]`. `pressure`, if present, is a source-relative value in `[0, 1]`; `timestamp`, if present, is elapsed seconds from the beginning of a stroke. Point order is drawing order. `id` values are unique within a document. `tool` is a source-neutral label such as `pen`; vendor tool codes belong in adapter metadata. `source_metadata` should identify provenance without storing private image bytes. `background_reference` is a path or URI reference, never flattened ink.
 
-Serialization rules (field omission versus null, migration, strict range checks) remain for implementation; the fixture shows intended field names and shape.
+Phase 1 serializes dataclasses as JSON with explicit `null` for unknown pressure
+and timestamp. The InkSight output uses a constant pen width (default 1.2 pt)
+and black RGBA color; `source_metadata` records the supplied DPI and model.
+Validation rejects empty strokes, duplicate IDs, non-finite coordinates and
+widths, invalid colors, and missing page dimensions. The fixture remains an
+illustrative example with source pressure data; it is not an InkSight prediction.

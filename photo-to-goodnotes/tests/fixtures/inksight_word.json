@@ -1,0 +1,3666 @@
+{
+  "id": "inksight-reconstruction",
+  "pages": [
+    {
+      "width": 60.0,
+      "height": 30.24,
+      "coordinate_system": "page_points_top_left",
+      "strokes": [
+        {
+          "id": "inksight-1",
+          "points": [
+            {
+              "x": 13.392857142857142,
+              "y": 10.53,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 13.392857142857142,
+              "y": 10.799999999999999,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 13.392857142857142,
+              "y": 11.07,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 13.392857142857142,
+              "y": 11.61,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 13.392857142857142,
+              "y": 12.42,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 13.392857142857142,
+              "y": 13.5,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 13.392857142857142,
+              "y": 14.85,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 13.392857142857142,
+              "y": 16.2,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 13.125,
+              "y": 17.55,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 13.125,
+              "y": 18.9,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 12.857142857142856,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 12.589285714285714,
+              "y": 21.33,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 12.589285714285714,
+              "y": 22.14,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 12.321428571428571,
+              "y": 22.68,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 12.321428571428571,
+              "y": 22.95,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 12.321428571428571,
+              "y": 23.22,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 12.321428571428571,
+              "y": 22.95,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 12.321428571428571,
+              "y": 22.68,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            }
+          ],
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "tool": "pen",
+          "metadata": {
+            "width_source": "constant_default"
+          }
+        },
+        {
+          "id": "inksight-2",
+          "points": [
+            {
+              "x": 13.392857142857142,
+              "y": 13.229999999999999,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 13.660714285714285,
+              "y": 13.229999999999999,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 13.928571428571427,
+              "y": 13.5,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 14.464285714285714,
+              "y": 14.04,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 15.0,
+              "y": 14.58,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 15.803571428571425,
+              "y": 15.389999999999999,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 16.607142857142858,
+              "y": 16.47,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 18.482142857142858,
+              "y": 18.36,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 20.625,
+              "y": 21.33,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.428571428571427,
+              "y": 22.14,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.69642857142857,
+              "y": 22.14,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.69642857142857,
+              "y": 21.869999999999997,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.69642857142857,
+              "y": 21.33,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.69642857142857,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.428571428571427,
+              "y": 19.439999999999998,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.428571428571427,
+              "y": 18.36,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.160714285714285,
+              "y": 17.009999999999998,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.160714285714285,
+              "y": 14.58,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.160714285714285,
+              "y": 13.5,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.160714285714285,
+              "y": 12.69,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.160714285714285,
+              "y": 11.879999999999999,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.160714285714285,
+              "y": 11.34,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 21.160714285714285,
+              "y": 10.799999999999999,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            }
+          ],
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "tool": "pen",
+          "metadata": {
+            "width_source": "constant_default"
+          }
+        },
+        {
+          "id": "inksight-3",
+          "points": [
+            {
+              "x": 25.178571428571427,
+              "y": 19.169999999999998,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 25.44642857142857,
+              "y": 19.169999999999998,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 25.982142857142854,
+              "y": 19.169999999999998,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 26.517857142857142,
+              "y": 18.9,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 27.32142857142857,
+              "y": 18.63,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 28.125,
+              "y": 18.36,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 28.928571428571427,
+              "y": 17.82,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 29.732142857142854,
+              "y": 17.28,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 30.267857142857142,
+              "y": 16.74,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 30.535714285714285,
+              "y": 16.47,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 30.535714285714285,
+              "y": 16.2,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 30.267857142857142,
+              "y": 15.93,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 29.732142857142854,
+              "y": 15.93,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 28.928571428571427,
+              "y": 15.93,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 28.125,
+              "y": 16.2,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 27.32142857142857,
+              "y": 16.74,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 26.517857142857142,
+              "y": 17.28,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 25.982142857142854,
+              "y": 18.09,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 25.44642857142857,
+              "y": 18.9,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 25.44642857142857,
+              "y": 19.71,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 25.44642857142857,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 25.71428571428571,
+              "y": 21.06,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 26.25,
+              "y": 21.599999999999998,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 27.053571428571427,
+              "y": 21.869999999999997,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 27.857142857142854,
+              "y": 21.869999999999997,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 28.928571428571427,
+              "y": 21.869999999999997,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 30.0,
+              "y": 21.599999999999998,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            }
+          ],
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "tool": "pen",
+          "metadata": {
+            "width_source": "constant_default"
+          }
+        },
+        {
+          "id": "inksight-4",
+          "points": [
+            {
+              "x": 37.76785714285714,
+              "y": 17.28,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 37.5,
+              "y": 17.009999999999998,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 37.232142857142854,
+              "y": 16.74,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 36.69642857142857,
+              "y": 16.47,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 36.160714285714285,
+              "y": 16.47,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 35.357142857142854,
+              "y": 16.47,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 34.55357142857142,
+              "y": 16.74,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 33.75,
+              "y": 17.28,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 33.214285714285715,
+              "y": 17.82,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 32.67857142857142,
+              "y": 18.63,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 32.410714285714285,
+              "y": 19.439999999999998,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 32.410714285714285,
+              "y": 19.98,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 32.67857142857142,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 33.214285714285715,
+              "y": 20.79,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 33.75,
+              "y": 21.06,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 34.55357142857142,
+              "y": 21.06,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 35.357142857142854,
+              "y": 20.79,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 36.160714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 36.964285714285715,
+              "y": 19.71,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 37.5,
+              "y": 18.9,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 38.035714285714285,
+              "y": 18.36,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 38.30357142857142,
+              "y": 17.82,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 38.30357142857142,
+              "y": 17.55,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 38.30357142857142,
+              "y": 17.28,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 38.035714285714285,
+              "y": 17.28,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 38.035714285714285,
+              "y": 17.55,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 38.035714285714285,
+              "y": 18.09,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 38.035714285714285,
+              "y": 18.63,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 38.30357142857142,
+              "y": 19.439999999999998,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 38.57142857142857,
+              "y": 19.98,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 39.107142857142854,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 39.64285714285714,
+              "y": 21.06,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 40.17857142857142,
+              "y": 21.33,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 40.982142857142854,
+              "y": 21.33,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 41.785714285714285,
+              "y": 21.33,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 42.58928571428571,
+              "y": 21.06,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 43.125,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 43.660714285714285,
+              "y": 19.98,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            }
+          ],
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "tool": "pen",
+          "metadata": {
+            "width_source": "constant_default"
+          }
+        },
+        {
+          "id": "inksight-5",
+          "points": [
+            {
+              "x": 45.26785714285714,
+              "y": 9.99,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.26785714285714,
+              "y": 10.26,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.26785714285714,
+              "y": 10.799999999999999,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.26785714285714,
+              "y": 11.61,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.26785714285714,
+              "y": 12.69,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.26785714285714,
+              "y": 13.77,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.26785714285714,
+              "y": 15.12,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.26785714285714,
+              "y": 16.47,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.26785714285714,
+              "y": 17.82,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.535714285714285,
+              "y": 18.9,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.535714285714285,
+              "y": 19.98,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.80357142857142,
+              "y": 20.79,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.80357142857142,
+              "y": 21.33,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 46.07142857142857,
+              "y": 21.599999999999998,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 46.07142857142857,
+              "y": 21.869999999999997,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 46.07142857142857,
+              "y": 21.599999999999998,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            }
+          ],
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "tool": "pen",
+          "metadata": {
+            "width_source": "constant_default"
+          }
+        },
+        {
+          "id": "inksight-6",
+          "points": [
+            {
+              "x": 42.32142857142857,
+              "y": 16.74,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 42.58928571428571,
+              "y": 16.74,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 43.125,
+              "y": 16.74,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 43.92857142857142,
+              "y": 16.74,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 45.0,
+              "y": 16.74,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 46.07142857142857,
+              "y": 16.74,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 47.14285714285714,
+              "y": 16.74,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 48.21428571428571,
+              "y": 16.74,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 49.01785714285714,
+              "y": 16.47,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            }
+          ],
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "tool": "pen",
+          "metadata": {
+            "width_source": "constant_default"
+          }
+        },
+        {
+          "id": "inksight-7",
+          "points": [
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.25,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            },
+            {
+              "x": 54.910714285714285,
+              "y": 20.52,
+              "width": 1.2,
+              "pressure": null,
+              "timestamp": null
+            }
+          ],
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "tool": "pen",
+          "metadata": {
+            "width_source": "constant_default"
+          }
+        }
+      ],
+      "background_reference": null
+    }
+  ],
+  "source_metadata": {
+    "source": "Google InkSight Small-p",
+    "image_path": "external/inksight/test_inputs/word.jpg",
+    "image_width_px": 250,
+    "image_height_px": 126,
+    "input_dpi": 300.0,
+    "dpi_source": "user_supplied",
+    "model": "Derendering/InkSight-Small-p",
+    "model_revision": "8514f237f318b83fe3d27c49989daaa4de9dabb9",
+    "inference_seconds": 95.48463423500652,
+    "pen_width_default_pt": 1.2
+  },
+  "schema_version": "1.0"
+}
